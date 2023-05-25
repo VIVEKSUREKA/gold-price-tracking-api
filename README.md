@@ -17,10 +17,6 @@ Open the .env file and type:
 
 MONGODB_URI = 'YOUR_MONGODB_URI'
 
-(I am temporarily adding my uri in readme)
-
-MONGODB_URI = 'mongodb+srv://viveksureka:viveksureka123@cluster0.ciobf3o.mongodb.net/?retryWrites=true&w=majority'
-
 Replace YOUR_MONGODB_URI with the mongodb cluster url you want to use for this project
 
 5. Start the API server:
